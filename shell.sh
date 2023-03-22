@@ -1,4 +1,5 @@
 !# /bin/bash/
 
 echo "hekko";
-ls -ltr
+ls -ltr;
+ls -ld
